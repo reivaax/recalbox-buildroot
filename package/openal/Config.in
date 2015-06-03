@@ -1,0 +1,5 @@
+config BR2_PACKAGE_OPENAL
+        bool "openal"
+	help
+          openal project.
+	  https://github.com/JogAmp/openal-soft
