@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PHYSFS
+        bool "physfs"
+	help
+          physfs project.	
+	  http://icculus.org/pipermail/physfs/2012-October/001056.html	  
